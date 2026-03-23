@@ -1,0 +1,6 @@
+../Core/Src/pwm.c:13:5:timer_freq	1
+../Core/Src/pwm.c:18:5:prescaler	2
+../Core/Src/pwm.c:30:5:compare_val	1
+../Core/Src/pwm.c:35:6:L6474_PwmInit	1
+../Core/Src/pwm.c:46:6:pwm_write	1
+../Core/Src/pwm.c:51:6:pwm_period	1

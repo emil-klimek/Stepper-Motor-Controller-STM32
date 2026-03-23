@@ -1,0 +1,14 @@
+../Core/Src/controller.c:55:13:eat_space	3
+../Core/Src/controller.c:64:11:update_timer	1
+../Core/Src/controller.c:73:11:get_milliseconds	1
+../Core/Src/controller.c:126:6:flag_irq_handler	2
+../Core/Src/controller.c:150:11:L6474_init	2
+../Core/Src/controller.c:190:11:ENC28J60_init	2
+../Core/Src/controller.c:246:6:driver_move	1
+../Core/Src/controller.c:253:5:init_driver	1
+../Core/Src/controller.c:260:13:create_controller	2
+../Core/Src/controller.c:299:6:destroy_controller	1
+../Core/Src/controller.c:306:5:receive_command	3
+../Core/Src/controller.c:318:6:parse_command	31
+../Core/Src/controller.c:525:6:send_response	1
+../Core/Src/controller.c:530:6:update	13

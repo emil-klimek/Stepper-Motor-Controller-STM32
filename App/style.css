@@ -1,0 +1,106 @@
+
+/*
+window {
+	background:rgb(176, 179, 184);
+}
+	*/
+
+/*
+flowbox button {
+	background:rgb(144, 220, 216);
+}
+*/
+
+/*
+stack{
+	border: 0px rgba(59,59,59,0.95) solid; 
+  	color: rgb(37, 154, 186);
+  	font-family: Monospace;
+  	border: 5px solid;
+	background:rgb(144, 220, 216);
+
+	//border-radius: 25px;
+}
+*/
+
+/*
+list {
+	background:rgb(176, 179, 184);
+}
+	*/
+
+
+/*
+.grid1
+{
+	border: 0px rgba(59,59,59,0.95) solid; 
+	border: 5px solid;
+	border-radius: 25px;
+	background:rgb(151, 151, 151);
+}
+*/
+
+flowbox button {
+	border: 0px rgba(59,59,59,0.95) solid; 
+  	color: rgb(17, 223, 216);
+  	font-family: Monospace;
+  	/*border: 5px solid;*/
+	background:rgb(227, 241, 240);
+
+	border-radius: 25px;
+}
+
+flowbox button:hover {
+  background-color: rgb(28, 77, 37);
+  font-size: 18px;
+}
+
+
+grid button {
+	/*border: 0px rgba(59,59,59,0.95) solid; */
+  	color: rgb(0, 0, 0);
+	background: rgb(248, 248, 247);
+	border: 0px;
+  	/*font-family: Monospace;*/
+
+  	/*border: 5px solid;*/
+
+	/*border-radius: 15px;*/
+}
+
+
+grid button:hover {
+  background-color: rgb(106, 34, 120);
+  font-size: 18px;
+}
+
+
+grid label {
+  	font-family: Monospace;
+	font-size: 18pt;
+	font-weight: 900;
+}
+
+
+/*
+.radio {
+  	color: rgb(0, 0, 0);
+	background: rgb(71, 70, 71);
+  	font-family: Monospace;
+}
+*/
+
+/*
+grid radiobutton {
+  	color: rgb(0, 0, 0);
+	background: rgb(1, 247, 38);
+  	font-family: Monospace;
+}
+*/
+
+/*
+grid radiobutton:hover {
+  background-color: yellow;
+  font-size: 18px;
+}
+*/
